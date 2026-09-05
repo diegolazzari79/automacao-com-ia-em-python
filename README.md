@@ -24,10 +24,10 @@ https://www.youtube.com/watch?v=MeOUl7ZjJRM&vl=pt-BR
 
 ### 2️⃣ PDF:
 
-- Apostila Jornada Python - Aula 1.pdf
-- Apostila Jornada Python - Aula 2.pdf
-- Apostila Jornada Python - Aula 3.pdf
-- Apostila Jornada Python - Aula 4.pdf
+- apostila/Apostila Jornada Python - Aula 1.pdf
+- apostila/Apostila Jornada Python - Aula 2.pdf
+- apostila/Apostila Jornada Python - Aula 3.pdf
+- apostila/Apostila Jornada Python - Aula 4.pdf
 
 
 ## 🎯Engenharia de Prompts e "Cicatrizes":
