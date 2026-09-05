@@ -2,14 +2,16 @@
 
 ## ✨ Contexto e Objetivos:
 
-### Contexto
+### ✨ Contexto
+
 O avanço da Inteligência Artificial abriu novas possibilidades para a automação de tarefas cotidianas e fluxos de trabalho complexos. A combinação da IA com a linguagem Python — conhecida por sua simplicidade, vasta biblioteca de ferramentas e forte presença na comunidade de dados — permite criar soluções inteligentes capazes de ler, interpretar e agir sobre informações de forma autônoma. Este caderno temático explora a integração dessas tecnologias para resolver problemas reais de forma eficiente.
 
-### Objetivos
-- **Compreender fundamentos:** Entender como utilizar Python para criar scripts de automação de tarefas rotineiras.
-- **Integrar Inteligência Artificial:** Aprender a conectar e consumir APIs de IA (como modelos de linguagem) dentro de aplicações Python.
-- **Desenvolver fluxos inteligentes:** Criar automações que não apenas sigam regras rígidas, mas que consigam tomar decisões simples e processar dados não estruturados.
-- **Criar um material de consulta:** Consolidar os aprendizados, referências, prompts e códigos úteis para servirem como base de conhecimento para projetos futuros.
+### ✨ Objetivos
+
+- Compreender fundamentos: Entender como utilizar Python para criar scripts de automação de tarefas rotineiras.
+- Integrar Inteligência Artificial: Aprender a conectar e consumir APIs de IA (como modelos de linguagem) dentro de aplicações Python.
+- Desenvolver fluxos inteligentes: Criar automações que não apenas sigam regras rígidas, mas que consigam tomar decisões simples e processar dados não estruturados.
+- Criar um material de consulta: Consolidar os aprendizados, referências, prompts e códigos úteis para servirem como base de conhecimento para projetos futuros.
 
 
 ## 🚀Curadoria de Fontes:
